@@ -1,0 +1,8 @@
+{
+  "name": "knockoutjs-json-viewer",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/jquery": "^3.3.31",
+    "@types/knockout": "^3.4.66"
+  }
+}

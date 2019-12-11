@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "knockout@3.5.0",
+      "destination": "Scripts/libs/ko",
+      "files": [ "knockout-debug.js", "knockout-min.js" ],
+      "provider": "cdnjs"
+    }
+  ]
+}
